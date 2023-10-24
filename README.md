@@ -1,2 +1,2 @@
 # Python JLPy Package Project hosted at Read the Docs
-[JLPy RTD Link](https://docs.readthedocs.io/en/stable/index.html)
+[JLPy RTD Link](https://jlpy.readthedocs.io/en/latest/index.html#)
