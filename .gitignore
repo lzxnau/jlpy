@@ -2,7 +2,7 @@
 !/.gitignore
 !/LICENSE
 !/README.md
-!/readthedocs.yaml
+!/.readthedocs.yaml
 !/requirements.txt
 !/src/
 !/cfg/
